@@ -1,6 +1,6 @@
 # prueba1
 ## Tremendo Documento
-###Efectivamente esto es un documento
+Prueba del fichero **readme**
 
 ```console
 nano README.md
